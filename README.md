@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Alkisti ☺️
+
+I'm a PhD student at the Centre for Medical Image Computing at UCL. My work is focused on developing image processing and machine learning methods for analysing lung CT scans. 
+
 
 <!--
 **alkististav/alkististav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
